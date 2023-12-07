@@ -17,6 +17,6 @@ Two functions svm train() and svm predict() from LIBSVM library will be used.
 
 (a) Complete the svm with svm_with_diff_c() function. In this function, you are asked to try different values of cost parameter c.
 
-(b)  Complete the svm with svm_with_diff_kernel() function. In this function, you are asked to try different kernels (linear, polynomial and radial basis function kernels).
+(b) Complete the svm with svm_with_diff_kernel() function. In this function, you are asked to try different kernels (linear, polynomial and radial basis function kernels).
 
-(c) (10 points) Summarize observations from (a) and (b) into a short report, report the accuracy result and total support vector number of each model. A briefly analysis based on the results is also needed. For example, how the number of support vectors changes as parameter value changes and why.
+(c)  Summarize observations from (a) and (b) into a short report, report the accuracy result and total support vector number of each model. A briefly analysis based on the results is also needed. For example, how the number of support vectors changes as parameter value changes and why.
