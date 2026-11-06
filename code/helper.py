@@ -1,7 +1,6 @@
 from matplotlib import pyplot as plt
-import numpy as np 
+import numpy as np
 import math
-import matplotlib.pyplot as plt
 
 def load_data(dataloc):
 	data = np.loadtxt(dataloc, unpack='true')
